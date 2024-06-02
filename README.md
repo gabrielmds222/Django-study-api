@@ -1,1 +1,1 @@
-# Django-sudy-api
+# Django-study-api
